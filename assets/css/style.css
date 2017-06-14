@@ -1,3 +1,9 @@
+/*
+
+#fed136 yellow
+
+*/
+
 .first-section{
 	background-image: url(../img/header-bg.jpg);
 	height: 100vh;
@@ -21,7 +27,7 @@
 }
 
 .btn-default{
-	background-color: #f9d014;
+	background-color: #fed136;
 	border: none;
 }
 
@@ -75,4 +81,24 @@
 /* section contact us.........*/
 #contact{
 	background-image: url(../img/map-image.png); /*falta imagen*/
+	background-color: black;
+	padding: 6% 0;
+}
+
+.inputs{
+	width: 100%;
+}
+
+.titulo-contacto{
+	color:#fff;
+}
+
+/*footer................ */
+footer{
+	padding: 2% 0;
+	margin: 0;
+}
+
+footer p{
+	margin: 0;
 }
