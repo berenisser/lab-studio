@@ -39,3 +39,19 @@
 	color: white;
 	margin: 0 auto;
 }
+
+/*.........seccion portfolio............*/
+#portfolio{
+	background-color: #e5e5e5;
+	padding: 6% 0;
+}
+
+.cajas{
+	background-color: #fff;
+	margin: 0;
+}
+
+.cajas h4{
+	margin-top: 0;
+	padding-top: 10px;
+}
