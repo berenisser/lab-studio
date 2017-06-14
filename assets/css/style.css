@@ -58,6 +58,21 @@
 
 /*seccion about.........*/
 .redondos img{
-	border-radius:90px;
+	border-radius:150px;
 	border: 5px solid lightgray;
+}
+
+/*seccion team..........*/
+#team{
+	background-color: #e5e5e5;
+	padding: 6% 0;
+}
+
+#loguitos{
+	padding: 3% 0;
+}
+
+/* section contact us.........*/
+#contact{
+	background-image: url(../img/map-image.png); /*falta imagen*/
 }
