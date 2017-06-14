@@ -1,0 +1,41 @@
+.first-section{
+	background-image: url(../img/header-bg.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#welcome{
+	padding-top: 150px;
+}
+
+#welcome h2,
+#welcome button{
+	color: #fff;
+}
+
+#welcome h1{
+	font-size: 4em;
+	color: #fff;
+	font-weight: bold;
+}
+
+.btn-default{
+	background-color: #f9d014;
+	border: none;
+}
+
+/*Seccion Services........................*/
+
+#services{
+	padding: 8% 0;
+}
+
+.servicios-icono{
+	background-color: #f9d014;
+	border-radius: 50px;
+	width: 80px;
+	height: 80px;
+	color: white;
+	margin: 0 auto;
+}
