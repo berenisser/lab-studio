@@ -1,9 +1,36 @@
 /*
 
 #fed136 yellow
+font-family: 'Raleway', sans-serif;
+font-family: 'Kaushan Script', cursive;
 
 */
 
+h1, h2, h3, h4{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+}
+
+/*Navbar...................*/
+.navbar-default {
+	background-color:transparent;
+	border-color:transparent;
+	background-image:none;
+	box-shadow:none;
+	padding: 0 5%;
+}
+
+
+.navbar-brand.logoguito-brand{
+	font-family: 'Kaushan Script', cursive !important;
+	color: #fed136 !important;
+}
+
+.navbar-color{
+	background-color: #001510;
+}
+
+/*first section............*/
 .first-section{
 	background-image: url(../img/header-bg.jpg);
 	height: 100vh;
@@ -12,7 +39,7 @@
 }
 
 #welcome{
-	padding-top: 150px;
+	padding-top: 200px;
 }
 
 #welcome h2,
@@ -21,9 +48,9 @@
 }
 
 #welcome h1{
-	font-size: 4em;
+	font-size: 5em;
 	color: #fff;
-	font-weight: bold;
+	font-weight: 900;
 }
 
 .btn-default{
@@ -37,6 +64,10 @@
 	padding: 8% 0;
 }
 
+.titulo-services{
+	padding-bottom: 20px;
+}
+
 .servicios-icono{
 	background-color: #f9d014;
 	border-radius: 50px;
@@ -44,6 +75,10 @@
 	height: 80px;
 	color: white;
 	margin: 0 auto;
+}
+
+.iconito{
+	padding-top: 10px;
 }
 
 /*.........seccion portfolio............*/
