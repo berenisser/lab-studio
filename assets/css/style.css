@@ -141,6 +141,10 @@ h1, h2, h3, h4{
 	margin-top: 40px;
 } 
 
+.mb-40{
+	margin-bottom: 40px;
+}
+
 /* section contact us.........*/
 #contact{
 	background-image: url(../img/map-image.png); /*falta imagen*/
@@ -156,12 +160,38 @@ h1, h2, h3, h4{
 	color:#fff;
 }
 
+.inputs{
+	border-radius: 5px;
+	border: none;
+	line-height: 40px;
+	padding-left: 10px;
+}
+
+.mt-15{
+	margin-top: 18px;
+}
+
+.btn-send{
+	color: #fff;
+	font-weight: bold;
+}
+
 /*footer................ */
 footer{
-	padding: 2% 0;
+	padding: 1.5% 0;
 	margin: 0;
 }
 
 footer p{
 	margin: 0;
+}
+
+.mt-5{
+	margin-top: 9px;
+}
+
+.linkcito{
+	text-decoration: none;
+	color: #fed136;
+	cursor: pointer;
 }
