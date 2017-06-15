@@ -195,3 +195,15 @@ footer p{
 	color: #fed136;
 	cursor: pointer;
 }
+
+.error{
+    padding: .25em .5em .35em .5em;
+    margin-top: .5em;
+    margin-bottom: .55em;
+    display: inline-block;
+    position: relative;
+    color: red;
+    background-color: #fed136;
+    border-color: red;
+    border-radius: 5px;
+}
