@@ -2,4 +2,11 @@
 	#welcome{
 	padding-top: 20%;
 	}
+
+	#portfolio,
+	#about,
+	#team{
+	padding: 12% 0;
+	}
+
 }
